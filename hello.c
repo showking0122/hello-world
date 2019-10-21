@@ -6,5 +6,4 @@ void main(){
 
 void print(char * str){
  printf(str); 
- return void;
 }
